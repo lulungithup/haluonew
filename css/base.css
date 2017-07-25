@@ -1,0 +1,13 @@
+/*公共部分*/
+.f1{color: #464646;}
+.f2{color: #A8A8A8 ;}
+.fz9{font-size: 0.9em;}
+.fz8{font-size: 0.8em;}
+/*头部*/
+.top_1{height: 75px;line-height: 75px;background-color: #F5CE2F ;text-align: center;color: #ffffff;font-size: 1.1em;}
+/*底部导航*/
+.nav-list{width: 100%;height: 46px;background-color:#26252A;position: fixed;bottom: 0;}
+.nav-list img{width: 21px;height: 20px;}
+.nav-list span{display: block;}
+.list-col{color: #FBD42D;}
+.nav-list a{display: inline-block;width: 23%;text-align: center;color: #ffffff;margin-top: 5px;font-size: 0.9em;}

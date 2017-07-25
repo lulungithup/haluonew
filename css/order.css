@@ -1,0 +1,32 @@
+/*订单头部*/
+.order-top{height: 40px;line-height: 40px; width: 100%;  background-color: #fff;font-size: 0.9em;color: #6A6663;}
+.order-top span{display: inline-block;width: 49%;text-align: center;}
+.order-select{background-color:#6A6663;color: #ffffff;}
+.order-lis{width: 100%;min-height: 500px;background-color: #ffffff;margin-top: 10px;text-align: center;}
+.order-lis img{width: 25%;height: 30%;margin-top:29%;}
+.order-lis span{display: block;color: #DFDFDf;}
+.return{width: 12px;height: 18px;float: left;margin-top: 8%; margin-left: 10px;}
+/*订单详情*/
+.order-det{width: 100%;height:115px;background-color: #ffffff;}
+.order-det ul{width: 93%;display: block;height: 14px;line-height: 14px; margin: 0 auto;}
+.order-det ul li{float: left;color:#8A8A8A;font-size: 0.6em;margin-top: 15px; }
+.state{ background-color: #389DF6;color: #ffffff;text-align: center; font-size: 0.6em;border-radius: 30px;width:51px;height: 17px; line-height: 17px;}
+.order-li1{width:49%;}
+.order-li2{width:34%;}
+.order-name{margin-top: 15px;}
+.order-box1 div{width: 93%;margin:4px auto 0;font-size: 0.9em;color:#464646;}
+.order-box1{width: 100%;margin-top: 25px;}
+.red{color: #E41F1F}
+.lv{float: right;}
+/*产品*/
+.product-box{width: 100%;background-color: #ffffff;margin: 10px 0 50px 0;;}
+.product{width: 100%;height: 44px;line-height: 44px;padding-top:15px;box-sizing: border-box;}
+.product span{display: block;width: 93%;margin:0 auto;padding-left: 10px;box-sizing: border-box; border-left:2px solid #DBB726; color: #DBB726;line-height: 18px; height: 18px;font-size: 0.9em;}
+.product-list-box{width: 93%;margin: 0 auto;}
+.product-sp1{ border: 1px solid #F5CE2F;padding: 1px 2px;margin: 15px 0;}
+.span-box{width: 100%;height:19px;margin: 15px 0  10px 0;}
+.product-sp2 {color: #909090;font-size: 0.6em;}
+.product-div1{width: 50%;margin-top: 7px;}
+.product-div2{width: 48%;float: right;text-align: right;margin-top: 21px;}
+.product-sp3{display: block; height: 30px;line-height: 25px;}
+.product-box1{width: 100%;}

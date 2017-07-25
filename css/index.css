@@ -1,0 +1,25 @@
+
+.logo-1{height: 23px;}
+.buy-cat{height: 20px;width: 22px;float: right;  margin-top: 8%;  margin-right: 3%;}
+.holo-1{width: 100%;height:170px;}
+.show-1-1{width: 100%;height: 35px;line-height: 35px; border-bottom: 1px solid #E2E2E2;}
+.lf img{width: 18px;height: 15px;margin-left: 20px;}
+.rg img{width:10px;height: 15px;}
+.show-1{background-color: #fff;}
+.lf,.rg{width: 49%;height: 100%;}
+.lf{color: #464646;}
+.rg{color: #C8C8C8 ; text-align: right;padding-right: 10px;box-sizing: border-box;}
+.pic-box{width: 100%;height: 204px;}
+.pic-box div{width:45%; height:85px;display: inline-block;margin-top: 10px;margin-left: 10px;}
+.pic-box div img{width: 100%;height: 100%;}
+.show-2{margin-top: 10px;background-color: #ffffff;margin-bottom: 48px;}
+.search{width:100%;height: 35px;color: #C8C8C8; line-height: 35px;text-align: center; border-radius: 30px;background-color: #f2f2f2;margin-top: 10px;}
+.search img{width: 20px;height: 20px;}
+.com{width: 90%;margin: 0 auto;}
+.exhibits{width: 100%;height:87px;}
+.pic-exhibits{width: 31%;height: 75px;margin-top: 10px;position: relative;}
+.pic-exhibits img{width: 100%;height: 100%;}
+.exhibits-price{width: 58%;margin-left: 10px;position: absolute;margin-top: 20px;}
+.exhibits-price img{width: 32px;height: 32px;display: inline-block;float: right;}
+.exhibits-pri{height:39px;color: #E41F1F;}
+.exhibits-style{margin-bottom: 16px;}
